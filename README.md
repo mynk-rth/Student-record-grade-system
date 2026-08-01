@@ -1,2 +1,18 @@
-# Student-record-grade-system
-A Student Grade Management System developed in C as my first programming project.
+# Student Record Grade System
+
+A console-based Student Grade Management System developed in C.
+
+## Features
+- Add Student Records
+- View Student Records
+- Update Student Information
+- Delete Student Records
+- Search Students
+- Calculate Grades
+- File Handling for Data Storage
+
+- ## Technologies Used
+- C Programming Language
+- File Handling
+- Structures
+- Functions
